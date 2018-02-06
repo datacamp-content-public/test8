@@ -10,6 +10,7 @@ type: NormalExercise
 lang: python
 xp: 100
 skills: 2
+key: 32f8a1cc1d
 ```
 
 
